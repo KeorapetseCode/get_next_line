@@ -1,2 +1,5 @@
 # get_next_line
-The function get_next_line reads....
+Students were asked to write a read function in C <br />
+<br />
+#Objectives
+Students were exposed to file I/O fundamentals, memory management and algorithms.
